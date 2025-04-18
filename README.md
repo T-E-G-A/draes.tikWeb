@@ -1,7 +1,7 @@
 # dræstɪkWeb
 This is an e-commerce Website , designed using html,css and php. 
 
-# images
+# Images
 ![draestik_Shot 1](https://github.com/user-attachments/assets/9af0c731-5917-4f39-92ba-e475eb634a50)
 ![draestik_shot 2](https://github.com/user-attachments/assets/1320f735-5eb8-42ea-b677-a8c70117132e)
 ![draestik_shot 3](https://github.com/user-attachments/assets/65f26b94-44a8-4ab8-a683-8b63b9319d22)
@@ -17,10 +17,7 @@ This is an e-commerce Website , designed using html,css and php.
 
 ## Pending Functions
 
-- [] User Authentication. (Signup/Login)
 - [] Paystack implementation.
-- [] Cart.
-
 
 ## Technologies Used
 1. HTML5
