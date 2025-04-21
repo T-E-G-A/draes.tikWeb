@@ -17,7 +17,7 @@ This is an e-commerce Website , designed using html,css and php.
 
 ## Pending Functions
 
-- [] Paystack implementation.
+- [] Paystack integration.
 
 ## Technologies Used
 1. HTML5
